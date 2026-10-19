@@ -1,0 +1,10 @@
+services:
+   
+     
+   demo-aws:
+    build: ./
+    
+    ports:
+      - 5000:5000  
+
+   
